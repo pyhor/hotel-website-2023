@@ -2,10 +2,72 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="refresh" content="0; url=Ojingeo-Hotel/home.html">
-    <title>Redirecting...</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Redirect to actual page after 2 seconds to allow the user to see the splash screen -->
+    <meta http-equiv="refresh" content="2; url=Ojingeo-Hotel/home.html">
+    <title>Ojingeo Hotel - Redirecting</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: #efe5b2; /* Ojingeo-Hotel background color */
+            font-family: Verdana, Geneva, Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            color: #4a3728; /* Footer/text color from theme */
+        }
+        .container {
+            text-align: center;
+            padding: 2rem;
+            border-radius: 8px;
+            background-color: rgba(255, 255, 255, 0.5);
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            margin-bottom: 0.5rem;
+            font-size: 2.5rem;
+        }
+        p {
+            font-size: 1.2rem;
+            margin-bottom: 2rem;
+        }
+        .loader {
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid #4a3728;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 1.5rem auto;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        a {
+            color: #4a3728;
+            text-decoration: none;
+            font-weight: bold;
+            padding: 10px 20px;
+            border: 2px solid #4a3728;
+            border-radius: 5px;
+            transition: all 0.3s ease;
+        }
+        a:hover {
+            background-color: #4a3728;
+            color: #efe5b2;
+        }
+    </style>
 </head>
 <body>
-    <p>If you are not redirected automatically, follow this <a href="Ojingeo-Hotel/home.html">link</a>.</p>
+    <div class="container">
+        <h1>Ojingeo Hotel</h1>
+        <div class="loader"></div>
+        <p>Loading your experience...</p>
+        <p>If you are not redirected automatically, <a href="Ojingeo-Hotel/home.html">Click Here</a>.</p>
+    </div>
 </body>
 </html>
