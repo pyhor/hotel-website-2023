@@ -53,13 +53,26 @@ As part of a **team-based project**, development tasks were distributed among me
 
 ## 📖 Project Overview
 
-This is a **Legacy Archive** of my diploma web development project. It is a **frontend hotel website prototype** designed to demonstrate how hotels present their brand, services, and accommodation options through a modern website interface.
+This repository preserves my **Diploma Web Development project (2023)**. It is a frontend-driven **Hotel Website** designed to simulate a professional hospitality presence, showcasing hotel rooms, services, and guest facilities through a structured multi-page interface.
 
-Users can:
-* View hotel information
-* Browse available rooms
-* Explore hotel services and facilities
-* Navigate through a multi-page website layout
+> [!NOTE]
+> This project represents my **frontend foundation**, documenting my early experience with **responsive UI design** and **collaborative development workflows** using vanilla web technologies.
+
+### <ins>🕹️ Core Functionality</ins>
+* **Multi-Page Navigation:** A seamless flow between homepage, room details, and service pages.
+* **Room Showcase:** High-quality visual displays of available accommodations and amenities.
+* **Interactive Components:** Implementation of FAQ accordions, event carousels, and contact forms.
+* **Responsive Layout:** A mobile-friendly design that adapts to various screen sizes and devices.
+
+### <ins>🎯 Development Focus</ins>
+The project was designed to implement modern **frontend development principles** and collaborative coding practices:
+
+| Focus Area | Objective |
+| :--- | :--- |
+| **Component Layout** | Structuring webpage sections to create a visually professional and balanced UI. |
+| **Responsive Styling** | Using CSS media queries to ensure compatibility across desktops, tablets, and mobile. |
+| **Interactive Logic** | Utilizing Vanilla JavaScript to handle user interactions and dynamic UI elements. |
+| **Team Collaboration** | Dividing development tasks and integrating diverse modules into a unified system. |
 
 ---
 
