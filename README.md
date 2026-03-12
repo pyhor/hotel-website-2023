@@ -123,15 +123,13 @@ Below are the interaction demos for the key pages of the website:
 ```text
 hotel-website-2023/
 │
-├── css/                # Stylesheets for website layout and styling
-├── js/                 # JavaScript files for interactive components
-├── images/             # Website images and media assets
-├── pages/              # Additional HTML pages (rooms, about, etc.)
-├── index.html          # Homepage
+├── .github/            # GitHub configuration files
+├── Ojingeo-Hotel/      # Main source files and website assets
 ├── demo-showing/       # GIF demos used for README documentation
+├── 404.html            # Custom error page
 ├── LICENSE             # Project license
-└── README.md           # Project documentation
-
+├── README.md           # Project documentation
+└── index.html          # Entry point (homepage)
 ```
 ---
 
