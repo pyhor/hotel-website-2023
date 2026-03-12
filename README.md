@@ -73,8 +73,8 @@ Below are the interaction demos for the key pages of the website:
 
 ![Homepage Demo](https://github.com/pyhor/hotel-website-2023/blob/main/demo-showing/homepage-demo.gif?raw=true)
 
-### 2. Events & Facilities
-*Showcasing the hotel's event spaces and additional guest services.*
+### 2. Events
+*Showcasing the hotel's event spaces.*
 
 
 ![Event Demo](https://github.com/pyhor/hotel-website-2023/blob/main/demo-showing/event-demo.gif?raw=true)
