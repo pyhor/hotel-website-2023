@@ -26,6 +26,11 @@ This repository contains my **Diploma Web Development project (2023)**. The proj
 
 ---
 
+## 🔗 Live Demo
+🚀 **[View the Live Website Here](https://pyhor.github.io/hotel-website-2023/)**
+
+---
+
 ## 🎓 Academic Context
 
 This project was completed as part of a **Diploma Web Development course**, focusing on **frontend web design and implementation**.
