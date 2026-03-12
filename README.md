@@ -69,14 +69,20 @@ Below are the interaction demos for the key pages of the website:
 
 ### 1. Homepage & Navigation
 *The main landing page introducing the hotel and highlighting featured sections.*
+
+
 ![Homepage Demo](https://github.com/pyhor/hotel-website-2023/blob/main/demo-showing/homepage-demo.gif?raw=true)
 
 ### 2. Events & Facilities
 *Showcasing the hotel's event spaces and additional guest services.*
+
+
 ![Event Demo](https://github.com/pyhor/hotel-website-2023/blob/main/demo-showing/event-demo.gif?raw=true)
 
 ### 3. FAQ Section
 *A clean, interactive FAQ layout for guest inquiries.*
+
+
 ![FAQ Demo](https://github.com/pyhor/hotel-website-2023/blob/main/demo-showing/faq-demo.gif?raw=true)
 
 ---
