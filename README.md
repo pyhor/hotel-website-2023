@@ -1,7 +1,7 @@
 ## 🏨 Hotel Website | 2023 Diploma Project Archive
 
 > [!NOTE]
-> **Status: Public Archive (Read-Only)**
+> Status: **Public Archive (Read-Only)**
 > This repository is a historical record of my **2023 Diploma Web Development project**. It is preserved to document my early frontend development experience and collaborative teamwork and is *no longer under active maintenance*.
 
 **Year:** 2023 (Diploma Level)  
@@ -135,27 +135,17 @@ hotel-website-2023/
 ```
 ---
 
-### <ins>📷 Screenshots</ins>
-
-Here are some screenshots showing key interfaces from the completed website:
-
-1. **Homepage** – The main landing page introducing the hotel and highlighting featured sections.
-
-2. **Room Showcase** – Displays hotel rooms with images and descriptions.
-
-3. **Hotel Information Page** – Provides details about hotel services and facilities.
-
----
-
 ## 📚 Learning Outcomes
 
-Through the development of this project, I gained valuable experience in the following areas:
+Through the development of this project, I achieved the following milestones in my technical journey:
 
-- **Frontend Development:** Built structured web pages using **HTML, CSS, and JavaScript**.
-- **Website Layout Design:** Learned how to organise webpage sections and create visually structured layouts.
-- **Responsive Design:** Implemented responsive styles to ensure compatibility across different screen sizes.
-- **Team Collaboration:** Worked collaboratively with teammates by dividing responsibilities and integrating different parts of the website.
-- **Project Organisation:** Maintained a clear project folder structure for better maintainability.
+| Milestone | Technical Application |
+| :--- | :--- |
+| **🚀 Frontend Development** | Built structured and functional web pages using **HTML5, CSS3, and JavaScript**. |
+| **🎨 Website Layout Design** | Mastered the organization of webpage sections to create visually structured and intuitive layouts. |
+| **📱 Responsive Design** | Implemented CSS media queries and flexible grids to ensure compatibility across various screen sizes. |
+| **👥 Team Collaboration** | Developed collaborative workflows by dividing responsibilities and successfully integrating diverse website modules. |
+| **🗂️ Project Organization** | Established and maintained a clean project folder structure for improved code maintainability and scalability. |
 
 ---
 
