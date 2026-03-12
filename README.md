@@ -30,7 +30,7 @@ This repository contains my **Diploma Web Development project (2023)**. The proj
 
 The project is hosted via **GitHub Pages** for real-time preview. This demo showcases the frontend architecture, responsive layouts, and interactive UI components developed during my Diploma.
 
-> ### 🚀 [Click Here to View Live Website](https://pyhor.github.io/hotel-website-2023/)
+> ### 🚀 <ins>[Click Here to View Live Website](https://pyhor.github.io/hotel-website-2023/)</ins>
 > **Note:** For the best experience, please view on a desktop or mobile browser to test the responsive breakpoints.
 
 ### <ins>⚡ Technical Highlights to Notice:</ins>
