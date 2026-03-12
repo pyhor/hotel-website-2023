@@ -1,11 +1,10 @@
 ## 🏨 Hotel Website | 2023 Diploma Project Archive
 
 > [!NOTE]
->
-> Status: **Public Archive (Read-Only)** > This repository is a historical record of my **2023 Diploma Web Development project**. It is preserved to document my early frontend development experience and collaborative teamwork and is *no longer under active maintenance*.
+> **Status: Public Archive (Read-Only)**
+> This repository is a historical record of my **2023 Diploma Web Development project**. It is preserved to document my early frontend development experience and collaborative teamwork and is *no longer under active maintenance*.
 
-**Year:** 2023 (Diploma Level)
-
+**Year:** 2023 (Diploma Level)  
 **Stack:** HTML, CSS, JavaScript
 
 <p align="center">
@@ -23,9 +22,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-This repository contains my **Diploma Web Development project (2023)**.
-
-The project is a **Hotel Website** designed to simulate a hotel's online presence, showcasing hotel rooms, services, and general information through a structured multi-page website interface.
+This repository contains my **Diploma Web Development project (2023)**. The project is a **Hotel Website** designed to simulate a hotel's online presence, showcasing hotel rooms, services, and general information through a structured multi-page website interface.
 
 ---
 
@@ -33,26 +30,16 @@ The project is a **Hotel Website** designed to simulate a hotel's online presenc
 
 This project was completed as part of a **Diploma Web Development course**, focusing on **frontend web design and implementation**.
 
-**Level:** Diploma (Higher Education)
-
-**Subject Area:** Web Development / Web Design
-
-**Language:** English (UI and documentation were created in English for academic submission).
-
-**Contribution:** Team Project. Development responsibilities were divided among team members, with each person working on specific sections of the website.
+* **Level:** Diploma (Higher Education)
+* **Subject Area:** Web Development / Web Design
+* **Language:** English (UI and documentation were created in English for academic submission).
+* **Contribution:** Team Project. Development responsibilities were divided among team members, with each person working on specific sections of the website.
 
 ---
 
-### <ins>📝 Language & Localisation</ins>
+### 👤 My Role: Team Developer
 
-The website interface and documentation are written primarily in **English**, following the academic requirements for the diploma program.
-
----
-
-### <ins>👥 My Role: Team Developer</ins>
-
-As part of a **team-based project**, development tasks were distributed among members.  
-My contributions focused mainly on frontend implementation and layout development.
+As part of a **team-based project**, development tasks were distributed among members. My contributions focused mainly on frontend implementation and layout development.
 
 | Phase | Responsibilities & Contributions |
 | :--- | :--- |
@@ -66,44 +53,31 @@ My contributions focused mainly on frontend implementation and layout developmen
 
 ## 📖 Project Overview
 
-This is a **Legacy Archive** of my diploma web development project.  
-It is a **frontend hotel website prototype** designed to demonstrate how hotels present their brand, services, and accommodation options through a modern website interface.
+This is a **Legacy Archive** of my diploma web development project. It is a **frontend hotel website prototype** designed to demonstrate how hotels present their brand, services, and accommodation options through a modern website interface.
 
-> [!NOTE]
-> This project is preserved as a record of my early experience in **frontend development**, **responsive design**, and **team collaboration**.
-
-It allows users to:
-
-- View hotel information
-- Browse available rooms
-- Explore hotel services and facilities
-- Navigate through a multi-page website layout
-
-This project was created to apply the **web development principles** learned during the diploma course.
+Users can:
+* View hotel information
+* Browse available rooms
+* Explore hotel services and facilities
+* Navigate through a multi-page website layout
 
 ---
 
-### <ins>🎯 Project Objectives</ins>
+## 🖥️ Visual Demos
 
-- Develop a **multi-page hotel website**
-- Apply **HTML, CSS, and JavaScript fundamentals**
-- Practice **frontend layout and responsive design**
-- Understand how professional websites present hospitality services
-- Gain experience working in a **team development environment**
+Below are the interaction demos for the key pages of the website:
 
----
+### 1. Homepage & Navigation
+*The main landing page introducing the hotel and highlighting featured sections.*
+![Homepage Demo](https://github.com/pyhor/hotel-website-2023/blob/main/demo-showing/homepage-demo.gif?raw=true)
 
-## 🏨 Website Features
+### 2. Events & Facilities
+*Showcasing the hotel's event spaces and additional guest services.*
+![Event Demo](https://github.com/pyhor/hotel-website-2023/blob/main/demo-showing/event-demo.gif?raw=true)
 
-The website includes the following features:
-
-- 🏨 Hotel homepage interface
-- 🛏 Room showcase section
-- 📖 Hotel information pages
-- 🧭 Multi-page navigation
-- 📱 Responsive website layout
-- 🎨 Styled UI components
-- 🖼 Image-based visual presentation
+### 3. FAQ Section
+*A clean, interactive FAQ layout for guest inquiries.*
+![FAQ Demo](https://github.com/pyhor/hotel-website-2023/blob/main/demo-showing/faq-demo.gif?raw=true)
 
 ---
 
@@ -130,14 +104,14 @@ The website includes the following features:
 ```text
 hotel-website-2023/
 │
-├── css/                    # Stylesheets for website layout and styling
-├── js/                     # JavaScript files for interactive components
-├── images/                 # Website images and media assets
-├── pages/                  # Additional HTML pages (rooms, about, etc.)
-├── index.html              # Homepage
-├── screenshots/            # Screenshots used for README documentation
-├── LICENSE                 # Project license
-└── README.md               # Project documentation
+├── css/                # Stylesheets for website layout and styling
+├── js/                 # JavaScript files for interactive components
+├── images/             # Website images and media assets
+├── pages/              # Additional HTML pages (rooms, about, etc.)
+├── index.html          # Homepage
+├── demo-showing/       # GIF demos used for README documentation
+├── LICENSE             # Project license
+└── README.md           # Project documentation
 
 ```
 ---
