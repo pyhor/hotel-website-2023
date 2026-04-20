@@ -1,4 +1,4 @@
-## 🏨 Hotel Website | 2023 Diploma Project Archive
+## 🏨 Hotel Website | 2023 Diploma Project Archive 
 
 > [!NOTE]
 > Status: **Public Archive (Read-Only)**
