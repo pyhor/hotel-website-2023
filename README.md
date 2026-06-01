@@ -1,4 +1,4 @@
-## 🏨 Hotel Website | 2023 Diploma Project Archive 
+## Hotel Website | 2023 Diploma Project Archive 
 
 > [!NOTE]
 > Status: **Public Archive (Read-Only)**
@@ -26,21 +26,21 @@ This repository contains my **Diploma Web Development project (2023)**. The proj
 
 ---
 
-## 🌐 Live Demonstration
+## Live Demonstration
 
 The project is hosted via **GitHub Pages** for real-time preview. This demo showcases the frontend architecture, responsive layouts, and interactive UI components developed during my Diploma.
 
-> ### 🚀 <ins>[Click Here to View Live Website](https://pyhor.github.io/hotel-website-2023/)</ins>
+> ### <ins>[Click Here to View Live Website](https://pyhor.github.io/hotel-website-2023/)</ins>
 > **Note:** For the best experience, please view on a desktop or mobile browser to test the responsive breakpoints.
 
-### <ins>⚡ Technical Highlights to Notice:</ins>
+### <ins> Technical Highlights to Notice:</ins>
 * **Responsive Fluidity:** Smooth transitions between Desktop, Tablet, and Mobile views.
 * **Interactive UI:** Fully functional FAQ accordions and event carousels built with Vanilla JS.
 * **Semantic SEO:** Optimized HTML structure for better accessibility and readability.
 
 ---
 
-## 🎓 Academic Context
+## Academic Context
 
 This project was completed as part of a **Diploma Web Development course**, focusing on **frontend web design and implementation**.
 
@@ -51,34 +51,34 @@ This project was completed as part of a **Diploma Web Development course**, focu
 
 ---
 
-### 👤 My Role: Team Developer
+### My Role: Team Developer
 
 As part of a **team-based project**, development tasks were distributed among members. My contributions focused mainly on frontend implementation and layout development.
 
 | Phase | Responsibilities & Contributions |
 | :--- | :--- |
-| **📁 System Planning** | Participated in planning the structure and layout of the hotel website. |
-| **🎨 Frontend Development** | Built website pages using **HTML, CSS, and JavaScript**. |
-| **📄 Page Layout Design** | Structured webpage sections such as homepage, hotel information, and room displays. |
-| **📱 Responsive Styling** | Implemented responsive layouts for better viewing on different screen sizes. |
-| **🛠️ Testing & Debugging** | Assisted in testing page layouts and fixing UI inconsistencies across pages. |
+| ** System Planning** | Participated in planning the structure and layout of the hotel website. |
+| ** Frontend Development** | Built website pages using **HTML, CSS, and JavaScript**. |
+| ** Page Layout Design** | Structured webpage sections such as homepage, hotel information, and room displays. |
+| ** Responsive Styling** | Implemented responsive layouts for better viewing on different screen sizes. |
+| ** Testing & Debugging** | Assisted in testing page layouts and fixing UI inconsistencies across pages. |
 
 ---
 
-## 📖 Project Overview
+## Project Overview
 
 This repository preserves my **Diploma Web Development project (2023)**. It is a frontend-driven **Hotel Website** designed to simulate a professional hospitality presence, showcasing hotel rooms, services, and guest facilities through a structured multi-page interface.
 
 > [!NOTE]
 > This project represents my **frontend foundation**, documenting my early experience with **responsive UI design** and **collaborative development workflows** using vanilla web technologies.
 
-### <ins>🕹️ Core Functionality</ins>
+### <ins> Core Functionality</ins>
 * **Multi-Page Navigation:** A seamless flow between homepage, room details, and service pages.
 * **Room Showcase:** High-quality visual displays of available accommodations and amenities.
 * **Interactive Components:** Implementation of FAQ accordions, event carousels, and contact forms.
 * **Responsive Layout:** A mobile-friendly design that adapts to various screen sizes and devices.
 
-### <ins>🎯 Development Focus</ins>
+### <ins> Development Focus</ins>
 The project was designed to implement modern **frontend development principles** and collaborative coding practices:
 
 | Focus Area | Objective |
@@ -90,7 +90,7 @@ The project was designed to implement modern **frontend development principles**
 
 ---
 
-## 🖥️ Visual Demos
+## Visual Demos
 
 Below are the interaction demos for the key pages of the website:
 
@@ -116,11 +116,11 @@ Below are the interaction demos for the key pages of the website:
 
 ### <ins>🛠 Technologies Used</ins>
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,windows" />
   </a>
-</p>
+</p> -->
 
 | Category | Stack |
 | :--- | :--- |
@@ -132,7 +132,7 @@ Below are the interaction demos for the key pages of the website:
 
 ---
 
-### <ins>📂 Project Structure</ins>
+### <ins> Project Structure</ins>
 
 ```text
 hotel-website-2023/
@@ -147,21 +147,21 @@ hotel-website-2023/
 ```
 ---
 
-## 📚 Learning Outcomes
+## Learning Outcomes
 
 Through the development of this project, I achieved the following milestones in my technical journey:
 
 | Milestone | Technical Application |
 | :--- | :--- |
-| **🚀 Frontend Development** | Built structured and functional web pages using **HTML5, CSS3, and JavaScript**. |
-| **🎨 Website Layout Design** | Mastered the organization of webpage sections to create visually structured and intuitive layouts. |
-| **📱 Responsive Design** | Implemented CSS media queries and flexible grids to ensure compatibility across various screen sizes. |
-| **👥 Team Collaboration** | Developed collaborative workflows by dividing responsibilities and successfully integrating diverse website modules. |
-| **🗂️ Project Organization** | Established and maintained a clean project folder structure for improved code maintainability and scalability. |
+| ** Frontend Development** | Built structured and functional web pages using **HTML5, CSS3, and JavaScript**. |
+| ** Website Layout Design** | Mastered the organization of webpage sections to create visually structured and intuitive layouts. |
+| ** Responsive Design** | Implemented CSS media queries and flexible grids to ensure compatibility across various screen sizes. |
+| ** Team Collaboration** | Developed collaborative workflows by dividing responsibilities and successfully integrating diverse website modules. |
+| ** Project Organization** | Established and maintained a clean project folder structure for improved code maintainability and scalability. |
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Pei Yu Hor**
 
@@ -173,7 +173,7 @@ https://www.linkedin.com/in/pei-yu-hor-9b3539265/
 
 ---
 
-## 📜 Archive & Legacy Disclaimer
+## Archive & Legacy Disclaimer
 
 > [!IMPORTANT]
 >
@@ -183,7 +183,7 @@ https://www.linkedin.com/in/pei-yu-hor-9b3539265/
 
 ---
 
-## ⚖️ License
+## License
 
 This project is licensed under the **MIT License**.
 
